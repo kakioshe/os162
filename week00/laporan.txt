@@ -1,6 +1,11 @@
 Week 0 Report:
-- Created a Google account
-- Created a GitHub account
-- Created a new repository called 'os162'
-- Filled out the form given by the task giver
-- Successfully registered into badak.cs.ui.ac.id
+
+	Task 0:
+	- Created a greeting in the forum
+
+	Task 1:
+	- Created a Google account
+	- Created a GitHub account
+	- Created a new repository called 'os162'
+	- Filled out the form given by the task giver
+	- Successfully registered into badak.cs.ui.ac.id

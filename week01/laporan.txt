@@ -1,0 +1,14 @@
+Week 1 Report:
+
+	-Cloned 'os162' repository into badak server
+	-Created 11 new folder named "week00,...,week10,SandBox" in the 'os162' directory
+	-Created empty file named dummy in all the 'week' folders
+	-Created empty file named testing in 'SandBox' Folder
+	-Created laporan.txt to make report in the folder of appropriate weeks (week 0 and week 1)
+	-Created a new work progress for lab01 and filled with the output of "ls -al > lab01.txt" command (ran from the root), and appended with "pwd >> lab01.txt" (ran from week01 folder) and move the lab01.txt too week01 folder
+	-Created a new text called "myExpectation.txt" in week01, and edited through browser
+	-Created week01 report 
+	-Created and ran simple script in linux
+
+
+----------------------------------- end of report ------------------------------------------

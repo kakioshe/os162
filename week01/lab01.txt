@@ -17,3 +17,4 @@ drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week08
 drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week09
 drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week10
 /home/fasilkom/mahasiswa/l/louis.christopher/os162/week01
+Today is 07 Sep 2016 at 13:50:48

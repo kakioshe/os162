@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 louis.christopher StafCS 4096 Sep  7 11:33 .
+drwx--x--x  3 louis.christopher StafCS 4096 Sep  7 11:04 ..
+drwxr-xr-x  8 louis.christopher StafCS 4096 Sep  7 11:32 .git
+-rw-r--r--  1 louis.christopher StafCS    0 Sep  7 11:33 lab01.txt
+-rw-r--r--  1 louis.christopher StafCS    7 Sep  7 11:04 README.md
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:15 SandBox
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:25 week00
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:09 week01
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:09 week02
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:09 week03
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week04
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week05
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week06
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week07
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week08
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week09
+drwxr-xr-x  2 louis.christopher StafCS 4096 Sep  7 11:10 week10
+/home/fasilkom/mahasiswa/l/louis.christopher/os162/week01

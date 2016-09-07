@@ -9,3 +9,5 @@ Week 0 Report:
 	- Created a new repository called 'os162'
 	- Filled out the form given by the task giver
 	- Successfully registered into badak.cs.ui.ac.id
+
+------------------------------------------- end of report --------------------------------------------------------

@@ -1,2 +1,4 @@
 #Louis Christopher Alan
 #INT162
+
+    I expected that OS class can help me understand more information about Operating System, and also teach me about the basic of OS

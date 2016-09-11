@@ -1,4 +1,3 @@
-#name Louis Christopher Alan
-#class INT162
+#kakioshe
 
     I expected that OS class can help me understand more information about Operating System, and also teach me about the basic of OS
